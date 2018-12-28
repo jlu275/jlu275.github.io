@@ -1,0 +1,51 @@
+---
+title: ""
+output:
+  html_document:
+    # code_folding: show
+    fig_height: 8
+    fig_width: 8
+    warning: FALSE
+    message: FALSE
+    toc: no
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    # theme: flatly
+    # theme: default
+    # theme: cerulean
+    # theme: journal
+    # theme: readable
+    # theme: spacelab
+    # theme: united
+    # theme: cosmo
+    # theme: lumen
+    # theme: paper
+    # theme: sandstone
+    # theme: simplex
+    # theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE, cache=TRUE)
+```
+
+```{css, echo=FALSE}
+pre code, pre, code {
+  white-space: pre !important;
+  overflow-x: scroll !important;
+  word-break: keep-all !important;
+  word-wrap: initial !important;
+}
+
+blockquote {
+  font-size: 90%;
+}
+```
+
+\  
+\  
+
+
+#### 待更新。。。
+

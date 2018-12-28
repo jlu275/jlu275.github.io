@@ -1,0 +1,20 @@
+name: "jlu275-site"
+output_dir: "."
+navbar:
+  title: "~JL~"
+  right:
+    - text: "菜谱"
+      href: "menu.html"
+    - text: "笔记"
+      href: "utils.html"
+    - text: "其他"
+      href: "read.html"
+    - text: "联系"
+      href: "about.html"
+    
+output:
+  html_document:
+  ##  theme: journal
+  ## https://bootswatch.com/3/
+    theme: flatly
+    
